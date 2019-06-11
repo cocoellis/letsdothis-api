@@ -1,3 +1,3 @@
-# task-manager-api
+# Let's Do This API
 
-This is my Bloc capstone: https://secure-badlands-84605.herokuapp.com/
+Task manager API connects to Mongo database, and allows users to create, read, update and delete data. This API also includes robust authentication, file upload capability, email communication and more!
